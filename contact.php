@@ -41,15 +41,15 @@
             padding-top: 60px;
             z-index: 1;
             float:left;
-            margin-left: 450px;
+            margin-left: 10%;
         }
 
         .content {
+            height: 100vh;;
             margin: 0 auto;
             width: 680px;
-            min-height: 100vh;
             background-color: white;
-            padding: 10px 50px 10px 110px; 
+            padding: 10px 30px 10px 130px; 
         }
 
         .nav a {
@@ -98,7 +98,7 @@
         input[type="text"],
         input[type="email"],
         textarea {
-            width: 100%;
+            width: 80%;
             padding: 10px;
             margin: 10px 0;
             border: 1px solid #ccc;
