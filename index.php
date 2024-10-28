@@ -140,10 +140,12 @@ border:3px solid #DAA520
             </p>
         </div>
 
-        <div>
-            <p style="margin-top:-20px; font-size:12px">
+        <div style="display: flex; align-items: center;">
+            <p style="margin-top:-20px; font-size:20px">
                 The pub's walls are adorned with Tudor features, creating an atmosphere of heritage and tradition. The menu changes according to the seasons and market availability. Desserts are hearty and simply divine. The atmosphere at the Crown is completely unpretentious and wonderfully relaxed.
             </p>
+            <img style="margin-left: 10px; width: 300px; height: 300;" src="PNG/nhahang3.jpg" alt="Gordon's Crown Restaurant" class="restaurant-img">
+
         </div>
     </div>
 
