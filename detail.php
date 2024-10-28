@@ -28,7 +28,7 @@ if (in_array($menu_id, $_SESSION['rated_dishes'])) {
             if ($rating > 0 && $menu_id > 0) {
                 $stmt = $conn->prepare("INSERT INTO votes (menu_id, rating, user_id) VALUES (?, ?, ?)");
                 $user_id = $_SESSION['user_id'];
-                $stmt->bind_param("iii", $menu_id, $rating, $user_id);
+                $stmt->bind_param("iii", $menu_id, $rating,  $user_id);
                 $stmt->execute();
                 $stmt->close();
 
@@ -108,7 +108,7 @@ $_SESSION['captcha_answer'] = $num1 + $num2;
             padding-top: 60px;
             z-index: 1;
             float: left;
-            margin-left: 450px;
+            margin-left: 10%;
         }
 
         .nav a {
