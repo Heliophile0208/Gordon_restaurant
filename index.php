@@ -41,7 +41,7 @@
             padding-top: 60px;
             z-index: 1;
             float:left;
-            margin-left: 450px;
+            margin-left: 10%;
         }
 
         .content {
