@@ -6,7 +6,7 @@ Welcome to **Gordon's Crown**, a beautifully designed website showcasing our res
 
 ## 📸 Screenshots
 
-![Homepage Preview](./PNG/demo.png)
+![Homepage Preview](./PNG/ai_repair_20241030174803570.jpeg)
 *Screenshot of the main homepage with the restaurant's menu and voting features.*
 
 ---
