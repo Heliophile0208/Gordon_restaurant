@@ -262,10 +262,12 @@ $_SESSION['captcha_answer'] = $num1 + $num2;
 <body>
 
 <div style="background-color:white; width:850px; margin:0 auto; padding:20px 0;">&nbsp;</div>
-<div class="header">
-    <h1>Dedicated to delicious British Food</h1>
- <p>Gordon's Crown</p>
-</div>
+    <a style="text-decoration:none" href="index.php">
+        <div class="header">
+            <h1>Dedicated to delicious British Food</h1>
+            <p>Gordon's Crown</p>
+        </div>
+    </a>
 
 <div class="header-fold">&nbsp;</div>
 <div class="nav">
