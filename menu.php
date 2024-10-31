@@ -83,7 +83,7 @@
             height: auto;
             width: 150px;
             position: absolute;
-            right: 200px;
+            right: 220px;
             top: 300px;
             padding: 20px;
             z-index: 2;
